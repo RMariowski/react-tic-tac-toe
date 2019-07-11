@@ -1,0 +1,20 @@
+{
+  "extends": ["tslint:latest"],
+  "rules": {
+    "quotemark": [true, "double"],
+    "trailing-comma": false,
+    "object-literal-shorthand": false,
+    "interface-name": false,
+    "jsx-wrap-multiline": true,
+    "jsx-alignment": true,
+    "jsx-boolean-value": true,
+    "jsx-curly-spacing": [true, "never"],
+    "jsx-equals-spacing": [true, "never"],
+    "jsx-key": true,
+    "jsx-no-bind": true,
+    "jsx-no-lambda": true,
+    "jsx-no-multiline-js": true,
+    "jsx-no-string-ref": true,
+    "jsx-self-close": true
+  }
+}
